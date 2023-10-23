@@ -1,5 +1,9 @@
 #ifndef RCT_AWAIT_INTERVAL_HPP_
 #define RCT_AWAIT_INTERVAL_HPP_
+/// @file
+/// @brief Provides AwaitInterval class.
+/// @copyright Copyright (c) 2023 Yoshikawa Teru
+/// @license This project is released under the MIT License, see [LICENSE](https://github.com/teruyamato0731/AwaitInterval_test/blob/main/LICENSE).
 
 #include <chrono>
 
